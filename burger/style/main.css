@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.main {
+    background: linear-gradient(180deg, #0C4C7B -100%, #1E2F40 100%);
+}
+.conteiner {
+    max-width: 1180px;
+    margin: 0 auto;
+}
+img {
+    width: 100px;
+}
